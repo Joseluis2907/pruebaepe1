@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">EPE1JoseMunoz</string>
+    <string name="EPR1">Ingrese nota EPR1</string>
+    <string name="EPE1">Ingrese nota EPE1</string>
+    <string name="EPR2">Ingrese nota EPR2</string>
+    <string name="EPE2">Ingrese nota EPE2</string>
+    <string name="EVAS">Ingrese las 4 notas de las evas</string>
+    <string name="ingrese1">Ingrese nota</string>
+    <string name="Ingrese2">Ingrese nota</string>
+    <string name="Ingrese3">Ingrese nota</string>
+    <string name="Ingrese4">Ingrese nota</string>
+    <string name="Ingrese5">Ingrese nota</string>
+    <string name="Calcular">Calcular</string>
+    <string name="Calcular1">Calcular1</string>
+    <string name="Resultado">Tu nota es...</string>
+    <string name="NOTA">Tu nota es</string>
+    <string name="titulocred">Desarrollado por:</string>
+    <string name="nombre">Jose Luis Muñoz Avalos</string>
+    <string name="Contacto">Contacto</string>
+    <string name="Correo">Jose.luis.munoz.avalos@gmail.com</string>
+    <string name="title_activity_creditos">creditos</string>
+</resources>
